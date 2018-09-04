@@ -15,4 +15,3 @@ for n in range(4,n+1):
     int_1 = int_2 
     int_2 = int_3
     int_3 = the_sum
-#g
